@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=student237753" alt="student237753" /></a> </p>
 
-- 🔭 I’m currently working on **- 🧪 Exploring how to build and connect my own API**
+- 🔭 I’m currently working on **How to build and connect my own API**
 
 - 🌱 I’m currently learning **- 📱 Mobile Development (Flutter, Android) - 🔌 Building & Learning more about APIs with Laravel - 🌐 Frontend with Vue.js & Tailwind CSS**
 
